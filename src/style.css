@@ -147,3 +147,7 @@ input:focus, button:focus {
   display: block;
   margin: auto;
 }
+
+.gen:hover {
+  cursor: pointer;
+}
